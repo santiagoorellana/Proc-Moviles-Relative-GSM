@@ -1,5 +1,5 @@
 
-<h1>ProcGSM </h1>
+<h1>Proc Moviles Relative GSM</h1>
 
 <p>Aplicación desktop para facilitar el procesamiento y análisis espacio-temporal de las localizaiones relativas de dispositivos móviles que son detectados en un rango de tiempo, en una localizació específica.</p>
 <img width="690" height="482" alt="Agregar" src="https://github.com/user-attachments/assets/369d81af-5525-4120-b108-b5e56f6d0e0d" />
@@ -23,6 +23,7 @@
 
 <p>Las coincidencias consisten en que dos dispositivos aparezcan en una misma medición. No implica un contacto físico entre ambos dispositivos, pero si indica una cercanía espacio-temporal. La aplicació muestra el resultado en una tabla con un encabezado explicando lo que se esta mostrando. Permite exportar los datos en formatos TXT, CSV, XLS y HTML</p>
 <img width="869" height="443" alt="todas_coincidencias_de_uno" src="https://github.com/user-attachments/assets/2a80aa32-4b50-4012-9597-ba397be566af" />
+
 
 
 
