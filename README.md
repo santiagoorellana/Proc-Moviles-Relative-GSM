@@ -24,6 +24,17 @@
 <p>Las coincidencias consisten en que dos dispositivos aparezcan en una misma medición. No implica un contacto físico entre ambos dispositivos, pero si indica una cercanía espacio-temporal. La aplicació muestra el resultado en una tabla con un encabezado explicando lo que se esta mostrando. Permite exportar los datos en formatos TXT, CSV, XLS y HTML</p>
 <img width="869" height="443" alt="todas_coincidencias_de_uno" src="https://github.com/user-attachments/assets/2a80aa32-4b50-4012-9597-ba397be566af" />
 
+<h1>Quieres hacerlo más rápido?</h1>
+<H3>Si tienes un proceso manual de procesamiento y análisis de datos, de seguro se puede automatizar... escríbeme!</H3>
+
+Santiago Orellana <br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
+
+<br><br>
+La Habana, Cuba, 2012 - 2025
+
+
 
 
 
