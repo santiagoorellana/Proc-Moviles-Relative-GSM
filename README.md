@@ -17,11 +17,12 @@
 <p>Para ejecutar las consultas se emplean diálogos modales con formularios fáciles de entender y sencillos.</p>
 
 <img width="536" height="218" alt="coincidenciass entre dos" src="https://github.com/user-attachments/assets/96df143f-fc62-4e5a-8270-8e129d904eb2" /><br>
-<img width="441" height="219" alt="coincidencias" src="https://github.com/user-attachments/assets/59dbc05e-6197-49b6-bd98-e0b5253eba2d" /><br>
 <img width="529" height="205" alt="coincidenciass con grupo" src="https://github.com/user-attachments/assets/1156b531-33c3-482b-8602-2dddebb1c85a" /><br>
 <img width="411" height="217" alt="todas" src="https://github.com/user-attachments/assets/0acb459b-fce0-4968-9163-5b6f76ea1e1b" />
+<img width="441" height="219" alt="coincidencias" src="https://github.com/user-attachments/assets/59dbc05e-6197-49b6-bd98-e0b5253eba2d" /><br>
 
 <p>Las coincidencias consisten en que dos dispositivos aparezcan en una misma medición. No implica un contacto físico entre ambos dispositivos, pero si indica una cercanía espacio-temporal. La aplicació muestra el resultado en una tabla con un encabezado explicando lo que se esta mostrando. Permite exportar los datos en formatos TXT, CSV, XLS y HTML</p>
 <img width="869" height="443" alt="todas_coincidencias_de_uno" src="https://github.com/user-attachments/assets/2a80aa32-4b50-4012-9597-ba397be566af" />
+
 
 
